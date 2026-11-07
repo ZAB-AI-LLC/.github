@@ -89,7 +89,7 @@ Indicate in the ticket why work needed to be done.
 
 ## 🔢 ZAP Ticket Lifecycle Summary
 
-```
+```text
 Unreviewed → Initial Ticket Review → Ready for Development
 → Development In Progress → Ready for Final Review
 → Final Review in Progress → Ready for Deployment
@@ -120,6 +120,6 @@ ZAP is a system designed for scale, autonomy, and impact—with built-in optics 
 
 ## 📄 Ownership
 
-This document was created by Zachary Bornheimer.  
-© 2025 ZAB Ai, LLC. All rights reserved.  
+This document was created by Zachary Bornheimer.\
+© 2025 ZAB Ai, LLC. All rights reserved.\
 Use, reproduction, or distribution without explicit permission is prohibited.
